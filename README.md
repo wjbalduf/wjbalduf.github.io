@@ -1,2 +1,2 @@
 # wjbalduf.github.io
-William Balduf Project Portfolio
+William Balduf's Project Portfolio
