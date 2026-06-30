@@ -302,6 +302,12 @@ body.dark .skill {
     color: #e5e7eb;
 }
 
+body.dark .skill:hover {
+    background: #2563eb;  
+    color: white;
+    transform: translateY(-3px);
+}
+
 body.dark footer {
     background: #111827;
     color: #9ca3af;
